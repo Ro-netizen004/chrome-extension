@@ -1,4 +1,4 @@
-Lead Tracker
+
 Lead Tracker is a Chrome extension designed to help sales representatives easily save and manage browser tabs as leads. It streamlines the process of capturing and organizing potential client information directly from your browser.
 
 This project was developed while following the "Learn JavaScript" course by Per Harald Borgen on Scrimba.
